@@ -17,5 +17,4 @@ async function cargarUsuarios() {
 
   console.log(usuarios);
 
-
 }
